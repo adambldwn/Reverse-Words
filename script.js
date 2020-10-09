@@ -21,7 +21,6 @@ function reverse(){
 
         input.value="";
         input.focus();
-
     }
     
 }
